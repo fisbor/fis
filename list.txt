@@ -68,7 +68,7 @@ TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://121.14.222.75:8500:3502
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 香港开电视(KHS),http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 CNBC,vjms://58.215.133.185:8500:3502/live/cid=98#vjms://121.14.222.75:8500:3502/live/cid=98#p8p://0198.02686.cc:16871/5d1a69720002ca3711bcdb2830f420fe.ts#vjms://23.237.33.155:8500:3502/live/cid=98
-CNN,vjms://121.14.222.75:8500:3502/live/cid=428#p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts#vjms://23.237.33.155:8500:3502/live/cid=428
+CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts#vjms://121.14.222.75:8500:3502/live/cid=428#vjms://23.237.33.155:8500:3502/live/cid=428
 BBC,vjms://121.14.222.75:8500:3502/live/cid=418#vjms://58.215.133.185:8500:3502/live/cid=418#vjms://23.237.33.155:8500:3502/live/cid=418
 SKY NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.flv
 FOXNews,p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts#vjms://58.215.133.185:8500:3502/live/cid=97#vjms://121.14.222.75:8500:3502/live/cid=97
