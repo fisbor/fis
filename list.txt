@@ -49,7 +49,8 @@ CCTV-17农村农业,http://39.135.34.140:18890/000000001000/1000000005000056836/
 甘肃卫视,http://39.135.34.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
 
 港台新闻,#genre#
-TVB无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#http://www.liveviptv.xyz/tv/tvb.php#vjms://121.14.222.75:8500:3502/live/cid=366#vjms://23.237.33.155:8500:3502/live/cid=366
+TVB无线新闻台,http://flv.live.xylive.tv/live/00wxxw.flv#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#http://www.liveviptv.xyz/tv/tvb.php#vjms://121.14.222.75:8500:3502/live/cid=366#vjms://23.237.33.155:8500:3502/live/cid=366
+无线新闻台,http://120.221.98.32/flv.live.xylive.tv/live/youxianxinwen.flv
 TVBS新闻,vjms://58.215.133.185:8500:3502/live/cid=348#vjms://121.14.222.75:8500:3502/live/cid=348#vjms://23.237.33.155:8500:3502/live/cid=348
 TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://121.14.222.75:8500:3502/live/cid=349#vjms://23.237.33.155:8500:3502/live/cid=349
 凤凰香港,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
