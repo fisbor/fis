@@ -99,8 +99,7 @@ FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
 综合娱乐,#genre#
 TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts#vjms://121.14.222.75:8500:3502/live/cid=368#vjms://121.14.222.75:8500:3502/live/cid=363#vjms://23.237.33.155:8500:3502/live/cid=368#vjms://23.237.33.155:8500:3502/live/cid=363
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#vjms://121.14.222.75:8500:3502/live/cid=367#vjms://23.237.33.155:8500:3502/live/cid=367
-翡翠高清,http://pull-hls.ls.eyunmy.com/vod/9a8425ef5869e8873326e1e7f3d2cbb4.flv
-TVB翡翠台,http://pull.leshantangjt.com/live/gd8b7993c8d8ccba0b9edt81b/playlist.m3u8#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#vjms://121.14.222.75:8500:3502/live/cid=362#vjms://23.237.33.155:8500:3502/live/cid=362#http://m.567it.com/jade.m3u8
+TVB翡翠台,http://pull.leshantangjt.com/live/gd8b7993c8d8ccba0b9edt81b/playlist.m3u8#http://pull.leshantangjt.com/live/gd8b7993c8d8ccba0b9edt81b/playlist.m3u8#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#vjms://121.14.222.75:8500:3502/live/cid=362#vjms://23.237.33.155:8500:3502/live/cid=362#http://m.567it.com/jade.m3u8
 TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 公视,vjms://121.14.222.75:8500:3502/live/cid=236#vjms://23.237.33.155:8500:3502/live/cid=236#vjms://58.215.133.185:8500:3502/live/cid=236
 民视,vjms://58.215.133.185:8500:3502/live/cid=450#,vjms://121.14.222.75:8500:3502/live/cid=450#vjms://23.237.33.155:8500:3502/live/cid=450
