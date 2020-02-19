@@ -52,6 +52,7 @@ CCTV-17农村农业,http://39.135.34.140:18890/000000001000/1000000005000056836/
 TVB无线新闻台,http://pull.leshantangjt.com/live/93c36f2b11a5021a7122a17cb/playlist.m3u8#http://flv.live.xylive.tv/live/00wxxw.flv#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#http://www.liveviptv.xyz/tv/tvb.php#vjms://121.14.222.75:8500:3502/live/cid=366#vjms://23.237.33.155:8500:3502/live/cid=366
 TVBS新闻,vjms://58.215.133.185:8500:3502/live/cid=348#vjms://121.14.222.75:8500:3502/live/cid=348#vjms://23.237.33.155:8500:3502/live/cid=348
 TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://121.14.222.75:8500:3502/live/cid=349#vjms://23.237.33.155:8500:3502/live/cid=349
+凤凰中文,117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8?IASHttpSessionId=OTT1681120200219150147153304
 凤凰香港,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
 凤凰卫视,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
 凤凰资讯,p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
