@@ -100,7 +100,7 @@ FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
 综合娱乐,#genre#
 TVB J2,P2p://lino.homeunix.com:6007/59fd25e80008aaec02a88fc1476f2edf.ts#P2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts#vjms://121.14.222.75:8500:3502/live/cid=368#vjms://121.14.222.75:8500:3502/live/cid=363#vjms://23.237.33.155:8500:3502/live/cid=368#vjms://23.237.33.155:8500:3502/live/cid=363
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#vjms://121.14.222.75:8500:3502/live/cid=367#vjms://23.237.33.155:8500:3502/live/cid=367
-TVB翡翠台,P2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
+TVB翡翠台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=6qxSYHSIptzinr0AhIDiB%3DCuhJTgW2Vjg4TMVqh%3DD7fUW9jDWuEJk5GCCByyr#P2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
 TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 公视,vjms://121.14.222.75:8500:3502/live/cid=236#vjms://23.237.33.155:8500:3502/live/cid=236#vjms://58.215.133.185:8500:3502/live/cid=236
 民视,vjms://58.215.133.185:8500:3502/live/cid=450#,vjms://121.14.222.75:8500:3502/live/cid=450#vjms://23.237.33.155:8500:3502/live/cid=450
