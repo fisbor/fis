@@ -49,8 +49,18 @@ CCTV-17农村农业,http://39.135.34.140:18890/000000001000/1000000005000056836/
 甘肃卫视,http://39.135.34.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
 
 港台新闻,#genre#
-TVB无线新闻台,P2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts#P2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts#http://flv.live.xylive.tv/live/00wxxw.flv#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#http://www.liveviptv.xyz/tv/tvb.php#vjms://121.14.222.75:8500:3502/live/cid=366#vjms://23.237.33.155:8500:3502/live/cid=366
-无线财经资讯台,P2p://lino.homeunix.com:6007/59fd314f000be93d02d51ae40a3a24e8.ts#P2p://lino.homeunix.com:6007/5ad32aed000d8fa649eaacf716d70340.ts
+TVB翡翠台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=6qxSYHSIptzinr0AhIDiB%3DCuhJTgW2Vjg4TMVqh%3DD7fUW9jDWuEJk5GCCByyr
+TVB無線新聞台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=QafK%3D%3D0q0h8MoOpTsTrOySFinUYJ9P8Ts%3DUPlXJNVNMavjOXlVYm6RYmqRcqH
+TVB無線財經資訊台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=lpch8kTltzzauzMp4vD06ozh60%3DZ9wAcDnQZ9oPV8vAAw3juuqvlLgDBupwN6
+TVB J2台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=xxrAHsGu3zo7ZgGG3zYrYsp-0x4LVs2xI94ndfmNDxIHKwpO30rEYcJO30orW
+TVB明珠台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=04tmIDHaPkYLN%3D8kg9r4Ryc6auOzKivsc09vNkd0NEr9MHt7856yghLLO2pcd
+TVB星河,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=HIVAhJNAfFSVhIgCzHuKcHvKjRcATICUhKNHx5yNiIAalYBieKSKzCPgRJS%3Dy
+鳳凰衛視中文,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=VFEcrSdaAhtQoR0crTKPrX678ExfASKu3VK36EhgtSKetm9crHkk8PdzrYK%3DG
+鳳凰衛視資訊,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=-ClqCAFpVQ2xoCsKWs14B96VDPIXUui7Su0TpvKZu%3DE7YMmWb%3D3Up%3DYGDBCsw
+凤凰香港高清,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=zFMtYutz%3DiYshhLlh384L5cqKj9qJhoAbheti2sd7EftOywP9jrJdeO6O5skU
+香港衛視HKS,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=KMwQl4i%3D0K1CURBUeLTQhIJ7z3SSgViXeUOAhNAv7DfHlaFiTSBZfIjkh-WD7
+香港開電視,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=KXQv84%3DwjJiaRPxIdLwci9WMg5SB0KynkKBHtLw4nDf7laFiTSBZfIjkh-WH7
+ViuTV,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=LKDGVMBCoICBS5jYlPHERUW9kNBh0TVBSGDBSPXMSJT1Wd0moKFZk2WlSQXbu
 TVBS新闻,vjms://58.215.133.185:8500:3502/live/cid=348#vjms://121.14.222.75:8500:3502/live/cid=348#vjms://23.237.33.155:8500:3502/live/cid=348
 TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://121.14.222.75:8500:3502/live/cid=349#vjms://23.237.33.155:8500:3502/live/cid=349
 凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8
