@@ -48,8 +48,8 @@ CCTV-17农村农业,http://39.135.34.140:18890/000000001000/1000000005000056836/
 贵州卫视,http://39.135.34.145:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
 甘肃卫视,http://39.135.34.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
 
-港台新闻,#genre#
-TVB翡翠台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=6qxSYHSIptzinr0AhIDiB%3DCuhJTgW2Vjg4TMVqh%3DD7fUW9jDWuEJk5GCCByyr
+港台,#genre#
+TVB翡翠台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=6qxSYHSIptzinr0AhIDiB%3DCuhJTgW2Vjg4TMVqh%3DD7fUW9jDWuEJk5GCCByyr#https://4graurmtwghzdrcbqgeao.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
 TVB無線新聞台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=QafK%3D%3D0q0h8MoOpTsTrOySFinUYJ9P8Ts%3DUPlXJNVNMavjOXlVYm6RYmqRcqH
 TVB無線財經資訊台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=lpch8kTltzzauzMp4vD06ozh60%3DZ9wAcDnQZ9oPV8vAAw3juuqvlLgDBupwN6
 TVB J2台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=xxrAHsGu3zo7ZgGG3zYrYsp-0x4LVs2xI94ndfmNDxIHKwpO30rEYcJO30orW
@@ -58,69 +58,129 @@ TVB星河,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=HIVAh
 鳳凰衛視中文,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=VFEcrSdaAhtQoR0crTKPrX678ExfASKu3VK36EhgtSKetm9crHkk8PdzrYK%3DG
 鳳凰衛視資訊,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=-ClqCAFpVQ2xoCsKWs14B96VDPIXUui7Su0TpvKZu%3DE7YMmWb%3D3Up%3DYGDBCsw
 凤凰香港高清,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=zFMtYutz%3DiYshhLlh384L5cqKj9qJhoAbheti2sd7EftOywP9jrJdeO6O5skU
+凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8
+凤凰资讯,http://liveali.ifeng.com/live/FHZX.m3u8
 香港衛視HKS,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=KMwQl4i%3D0K1CURBUeLTQhIJ7z3SSgViXeUOAhNAv7DfHlaFiTSBZfIjkh-WD7
 香港開電視,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=KXQv84%3DwjJiaRPxIdLwci9WMg5SB0KynkKBHtLw4nDf7laFiTSBZfIjkh-WH7
 ViuTV,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=LKDGVMBCoICBS5jYlPHERUW9kNBh0TVBSGDBSPXMSJT1Wd0moKFZk2WlSQXbu
-TVBS新闻,vjms://58.215.133.185:8500:3502/live/cid=348#vjms://121.14.222.75:8500:3502/live/cid=348#vjms://23.237.33.155:8500:3502/live/cid=348
-TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://121.14.222.75:8500:3502/live/cid=349#vjms://23.237.33.155:8500:3502/live/cid=349
-凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8
-凤凰香港,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
-凤凰卫视,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
-凤凰资讯,http://liveali.ifeng.com/live/FHZX.m3u8
-年代新闻,vjms://58.215.133.185:8500:3502/live/cid=455#vjms://121.14.222.75:8500:3502/live/cid=455
-非凡新闻,vjms://58.215.133.185:8500:3502/live/cid=443#http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv#vjms://121.14.222.75:8500:3502/live/cid=443#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#vjms://23.237.33.155:8500:3502/live/cid=443
-三立新闻,vjms://58.215.133.185:8500:3502/live/cid=352#vjms://121.14.222.75:8500:3502/live/cid=352#vjms://23.237.33.155:8500:3502/live/cid=352
-东森新闻,vjms://58.215.133.185:8500:3502/live/cid=340#http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv#vjms://121.14.222.75:8500:3502/live/cid=340#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://23.237.33.155:8500:3502/live/cid=340
-中天新闻,vjms://58.215.133.185:8500:3502/live/cid=407#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts#vjms://23.237.33.155:8500:3502/live/cid=407
-壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#vjms://23.237.33.155:8500:3502/live/cid=445
-寰宇新闻频道,P2p://lino.homeunix.com:6007/59fd2b5e0006d13802bde4340bc41e87.ts#p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts#http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
-民视新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#vjms://23.237.33.155:8500:3502/live/cid=454
-东森财经,vjms://58.215.133.185:8500:3502/live/cid=456#http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv#vjms://121.14.222.75:8500:3502/live/cid=456#p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts#vjms://23.237.33.155:8500:3502/live/cid=456
-寰宇财经台,p8p://0198.02686.cc:16871/5d1a69bb00034ddd11bdf8710f58e2f3.ts
-耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-香港开电视(KHS),http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-CNBC,vjms://58.215.133.185:8500:3502/live/cid=98#vjms://121.14.222.75:8500:3502/live/cid=98#p8p://0198.02686.cc:16871/5d1a69720002ca3711bcdb2830f420fe.ts#vjms://23.237.33.155:8500:3502/live/cid=98
-CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts#vjms://121.14.222.75:8500:3502/live/cid=428#vjms://23.237.33.155:8500:3502/live/cid=428
-BBC,vjms://121.14.222.75:8500:3502/live/cid=418#vjms://58.215.133.185:8500:3502/live/cid=418#vjms://23.237.33.155:8500:3502/live/cid=418
-SKY NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.flv
-FOXNews,p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts#vjms://58.215.133.185:8500:3502/live/cid=97#vjms://121.14.222.75:8500:3502/live/cid=97
-
-港台影视,#genre#
-HBO原创电影,vjms://58.215.133.185:8500:3502/live/cid=436#vjms://121.14.222.75:8500:3502/live/cid=436#vjms://23.237.33.155:8500:3502/live/cid=436#http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
-HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181#vjms://121.14.222.75:8500:3502/live/cid=181#vjms://23.237.33.155:8500:3502/live/cid=181#http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
-HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238#vjms://121.14.222.75:8500:3502/live/cid=238#vjms://23.237.33.155:8500:3502/live/cid=238#http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.flv
-HBO,vjms://58.215.133.185:8500:3502/live/cid=261#vjms://121.14.222.75:8500:3502/live/cid=261#vjms://23.237.33.155:8500:3502/live/cid=261#http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
-东森电影,p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts#vjms://121.14.222.75:8500:3502/live/cid=338#vjms://23.237.33.155:8500:3502/live/cid=338#http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.flv
-卫视电影台,p8p://0198.02686.cc:16871/5d1a69d0000743f711be4b7d2b320c30.ts
-纬来电影台,p8p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
-FOX电影,vjms://58.215.133.185:8500:3502/live/cid=94#vjms://121.14.222.75:8500:3502/live/cid=94#vjms://23.237.33.155:8500:3502/live/cid=94
-TVB星河,p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts#http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
-華藝影剧台,p8p://0198.02686.cc:16871/5d1a69d700008c5a11be651dc2bd3d52.ts
-三立戏剧台,p8p://0198.02686.cc:16871/5d1a69f90000ad2611bee9f55d87748f.ts
-纬来戏剧,vjms://58.215.133.185:8500:3502/live/cid=137#vjms://121.14.222.75:8500:3502/live/cid=137#vjms://23.237.33.155:8500:3502/live/cid=137
-EYETV戏剧台,p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
-凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
-CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
-CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
-CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
-AXN,vjms://58.215.133.185:8500:3502/live/cid=2#http://pili-live-hdl.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv#vjms://121.14.222.75:8500:3502/live/cid=2#vjms://23.237.33.155:8500:3502/live/cid=2
-BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
-FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
-
-综合娱乐,#genre#
-TVB J2,P2p://lino.homeunix.com:6007/59fd25e80008aaec02a88fc1476f2edf.ts#P2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts#vjms://121.14.222.75:8500:3502/live/cid=368#vjms://121.14.222.75:8500:3502/live/cid=363#vjms://23.237.33.155:8500:3502/live/cid=368#vjms://23.237.33.155:8500:3502/live/cid=363
-TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#vjms://121.14.222.75:8500:3502/live/cid=367#vjms://23.237.33.155:8500:3502/live/cid=367
-TVB翡翠台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=6qxSYHSIptzinr0AhIDiB%3DCuhJTgW2Vjg4TMVqh%3DD7fUW9jDWuEJk5GCCByyr#P2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
-TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
-公视,vjms://121.14.222.75:8500:3502/live/cid=236#vjms://23.237.33.155:8500:3502/live/cid=236#vjms://58.215.133.185:8500:3502/live/cid=236
-民视,vjms://58.215.133.185:8500:3502/live/cid=450#,vjms://121.14.222.75:8500:3502/live/cid=450#vjms://23.237.33.155:8500:3502/live/cid=450
-三立都会,vjms://58.215.133.185:8500:3502/live/cid=226#vjms://121.14.222.75:8500:3502/live/cid=226#vjms://23.237.33.155:8500:3502/live/cid=226
-三立台湾,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts#vjms://23.237.33.155:8500:3502/live/cid=437
-八大第一,vjms://58.215.133.185:8500:3502/live/cid=441#vjms://121.14.222.75:8500:3502/live/cid=441#vjms://23.237.33.155:8500:3502/live/cid=441
-JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
-三立综合台,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
-壹综合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
-tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
+星空衛視,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=n11PDWzgCw-Exh0gUXwjEVus84SRQoSv8WzNskOz8VR4FoQvEXh1%3DoyuCryPC
+耀才財經,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=J7QNjZN6y8gJdNACwIz9bZwuvHgxiNN%3DcHgFcZwyxIzFReAPe-DKfKgPe-Axk
+港台電視31,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=J7g-NO9Cy9wRiaguu7D1jPQDbIwNcNw6tHACPO9LeIQNReAPe-DKfKgPe-A1b
+港台電視32,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=FPKvZDY6bIsaiP63eCYKcI8JyP9zZE7OdHvBuDqOuP4CRXviiG9Hs%3DbfPJ8Fv
+澳門衛視,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=54zB-t8sPCAER48Lh4AUP48vj2QIQts7e4AERsP0P2D0A8vQP5DNOoPQP5A4N
+澳亞衛視,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=y4uuYg%3DlLtR062Xq4mq0MkutPt7hNE8152I94DOnMs8Z-xxQ63qGJh6QPl7cd
+Fashion TV,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=TOnfnC6StWuGnWoYoWMq4DKS6MnfbXrTYW4NXWPjpPHmrR6vdZeToTrZYZMS-
+HBO HD,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=mqiY%3DWrjEnFjCny0-lrsPkdvNWAgNjsQRpeyYlM2SoOtu1hw-utmOlCw9XrjC
+HBO2,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=HSlTxWATv6VBZHzO1TxCfJPNyFsYOTVTvWdDs7C5cHA6lYBieKSKzCPgRJSDz
+環球電視台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=yDRjOgcdMsOM80a5Kw3MOjecbi74i3Z0KBIcF4BrKs85-xxQ63qGJh6QPl7ci
+香港有線新聞台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=WVNOsiBQ5aJrtYdgbSgTAUwLvXwYtSJTsUayomersV8mwoOsxVko-QteqZeU4
+香港有线高清603台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=nqinAjjpulu0xWUwXjtSQVeo-4ShToCstizRtmezEix8FoQvEXh1%3DoyuCryX9
+香港有線娛樂台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=XiPZ2msw8Jw8-baJxamnskgRrQ%3DlAWvl2ccY6IAE9ldNipWztbgZ-BvyrYPYE
+功夫台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=kgfiqUS1sfL25lTZ%3D0CPogtLM2oc-pJa8zaZVSth9T5QAkfCpWy56Pu%3DrowR8
+Discovery,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=BSK5sK0vYHaRrKU%3DWSKBvJX0DTKFu9ELYSt2eKU3ZSqJeO3MGJNOs6XMGJK9u
+Discovery科学,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=npCP9W2Q9w-3CVEgYZNPGVRcCsvRTo1X8iDM7mO8yhRcFoQvEXh1%3DoyuCryXB
+Discovery Asia 頻道,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=1yU1OjPBSku5ayR1PjfpSlRtbnxS8wPBMkuBWmxC9v%3DJ%3D1hKJoEKPgSK9nuxd
+三立綜合台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=VQBL8TqbpVqcsGUMrSdfoidAsQ0YrTdS3VaTAEUYsSKWtm9crHkk8PdzrYKDA
+三立都会台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=4FB%3DBHg9kst8o6D-%3D2vTdpwrPpS1N6BH%3DIwuP3wolGA9EHiURsD7elVSB8x6M
+三立戲劇台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=KLw0lDSwlJiJiPxUcNTUg7Z4iEiCgKyPfJRPwMQP84%3DDlaFiTSBZfIjkh-W7t
+三立台灣台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=gjmSHdqZIpJd2w0ZEUXQPpI06dafJhjr3dqtFeJWnlXp2jXp7grt6aq81kjWD
+中天新聞台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=QbcSB%3DUG6icYjaMSAfu3jT1J8UFZ6PfLt-0q0hZZXNcWvjOXlVYm6RYmqRcW8
+TVBS新聞台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=HSyAdLADz6iePTDLkH-RtHCBxG%3DLhHSEfJQLw5iGNTAOlYBieKSKzCPgRJSLw
+東森新聞台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=lnMIHwgo9mDh8pvZ4vApwmAZ8ockKvApsowpAz%3DULvQsw3juuqvlLgDBupwZA
+三立新聞台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=GFN1ZEyNqHwOvKtSaELfuEeZ2X0%3DuBMAyHKbyXCesG-6ec%3DcfMUcyAgNaHSJv
+壹新聞,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=AIVvg%3DMCT7pFJREMX8DLdKW6W9JeXJlAU0MxlumNHG0QIA2LdAG%3DX5MeV%3D1zp
+民視新聞台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=AI48W-PGUvGAfFkwXxDKuJjmU88SS94np%3DfKSuGIdSX4IA2LdAG%3DX5MeV%3D13g
+中視新聞,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=%2BAn6rxV2lJMNdvsHmDs9SOZ6YFY-oLn-wy16p9cBX6sLXT%3DKGFJOqCLHaCEKq
+年代新聞,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=NJnRmIkW39HIgKkNqHkK4IXRR9XVo7UjoIUVR%3DEFm80apN3pUAXh44nrn%3DEYi
+非凡新聞台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=PLUA0O2EXdlOtP6DmA5JlMHOlLaWkNEFlaZDkeILaPnHXRJmXCKi27anYOEI2
+寰宇新聞台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=1nBtUvfm6wuxbmk9Sk%3DlOwOJdyxy8j%3D2%3Dx-BXlh28w%3DF%3D1hKJoEKPgSK9nu5Z
+寰宇新聞2台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=Qa8XrAXPoWpgmaJW5SbS4UYeoh1mrOfSA%3DHK5iJYqZcSvjOXlVYm6RYmqRca9
+八大綜合台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=Ynckgnwh%3DV1RCXES7bwPBpxdHJCiJbcnxb9hEVSFCYUuvsD0ugkmDG1v1dcj0
+八大娛樂台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=kTch5VvA-fuy%3DxAZ7pSLnVgPJ1rUCo5S8zKuCeqhAfZIAkfCpWy56Pu%3DrowZ%3D
+東森電影,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=obyFDkPnC3D1DqlTFtXcSrkzUtShBmF5FYPsysjiw1leF9nxAuk8UqyBDdy0a
+東森超視,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=KYg743S0jVyFkQuJPMQbw8Gzs3CChJiLiVRTtLQP23y7laFiTSBZfIjkh-WDs
+東森綜合台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=-Co5Q-S8jQDtsD5%3DCsVUCJN5HEL6mti3R5ULhv9OY-k3YMmWb%3D3Up%3DYGDBC4i
+東森洋片,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=8Kj1g9WEEGDHnqAAj%3DyHQqy9TFm9Vsl5O9ElkIT3S6AlVOjSU%3DJ8W2DUVsAIj
+東森幼幼,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=noifCi2Y9w-vFVU0RZQiSWhtw4iNU0yYtWjQBxOjCi0sFoQvEXh1%3DoyuCryj-
+東森戲劇台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=QacK5AUrnWZsnapLre-LiSVV3Ull%3DQcPsLkayh5MoO5OvjOXlVYm6RYmqRce9
+好萊塢電影台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=iT5mzmFvNUaKLP%3Df4obb3n5xLvtkAUdXNrau7fZ3oml3AlNr-SvvLjusqpWxI
+龍祥時代,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=54AwPtv%3DkCAN-3cwN4wwPsM8M3QB%3Ds8ANCQwPrMLkCAMA8vQP5DNOoPQP5AIR
+華納 TV,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=MXmH5A4QmJ4U0N5arAPVySDHjQ1-oVUF5-Bg6bI3iKgNWbGomBIZlGrViPWar
+星衛電影台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=u8J23payYsnsGgX%3DehUsftpW5uppEx3RXzk42hzsGv7g3BsG3gp9HtJK4g3CR
+美亞電影台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=igpnolVfTgtSNcsqPy7T4mGpKktVrftfQeai%3DT5boxobAlNr-SvvLjusqpW1D
+中視HD,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=anlK6L-LDXyvkXA7AZSnFXdGfkzYxrBfgIuqic4DsJhjzcV3iZTY%3DWl02NdZu
+台視HD,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=%3Dz7EYHUBUuH1WC6uGN0zhN2mZxz6Wy4JGIEVT63FRP35LRnUVDG%3DYtWbI04QV
+民視HD,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=x9L3Xgpu3yIIHrWNE9rsIh5-2xLrYrWy5zo8FfZtDzr3KwpO30rEYcJO30oDZ
+公視HD,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=A-1%3DozcxmvmNMRUQX8G6t9W2WI5Nl9I8S-s5numIZSUQIA2LdAG%3DX5MeV%3D1%3Dm
+華視HD,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=7t%3D0B1v4Xs1p-tj4d43vVtPAD1SvosSkTtjoh4kECtyvG5yQVu19QoGBQ6E7W
+龍華洋片,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=URNYsUBcqacB5GrdskbTzSYJdWLdxWJucBnC8GbcuEjRbhAtcXhlqWfaoJbUA
+龍華电影,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=21O2OpNl9FwkjE7pQBSjMmy684xx5F8cIo-EdkS7clw9C0i9Q8uJfx-SNrq4R
+龍華影剧,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=XhPQBnMk-Jw9rbaahljq-ltdvEPh9W%3DUImclwKNQ7ldRipWztbgZ-BvyrYPsA
+龍華戲劇,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=VFEb5eta4idQqGkQqTKroWtIpEUUueKPtiKUsQBT-eKStm9crHkk8PdzrYKX4
+龍華偶像,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=53TJAt83jDQMSscQOCjAT4%3D%3DkCDIL4sIMCAV74Pzg2TAA8vQP5DNOoPQP5AQM
+龍華動畫,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=OSaRkSECmM9NmTbI29K2i%3DKYlbsamNjkqXXAAN2LmQE0qOEWYWWg6OqmUTEek
+博斯網球,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=fPHR2b0dmM4lirpHleDHIQTFmcUzIPqmiQElmOYdkhcSquGo1TWd5Nn46RXx0
+博斯運動1,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=eNkIFpJq0tqVNdXdydnqLbod0ukVJOVZJrpdHfrV1pWT3zYo5jnyFK3lzgpy4
+博斯高球1,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=%3D9LEZI0Ijv3ooCnpcAH4UMD-b9DCXxYQWIUEp7HtSDnxLRnUVDG%3DYtWbI04UX
+博斯高球2,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=LJWFjYkKlISVW6zUnOKDhUDuTZRh5USUi6DImPXcRJzNWd0moKFZk2WlSQXbm
+博斯魅力,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=obVoXY%3D%3DDrTtF0CyPu0l-4kzVuCsRby8UkvnEszF-1COF9nxAuk8UqyBDdyAZ
+博斯無限,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=45R7-8jxd3AlQ5TGC3fQPpDmcpy--5k%3D%3DIzxk2A1V5zxEHiURsD7elVSB8xKV
+博斯運動2,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=y3xqZh8W9t-840n5NmXDhuOsbiedP3J0E1rd25uuYhch-xxQ63qGJh6QPl74Z
+亞洲旅遊,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=SAaL5gGUtSWAahOAkX43wErUob-WUEqltL5YmLND6gpLxi5cbXeQ3UrYbGbsk
+baby first,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=MKWH1L4JUV79gYWamKvSiRTG2RF2rIkZ79xM0PoGx-wRWbGomBIZlGrViPWmk
+亚洲电视新闻台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=UdAhbgxYom8B1G7FtYbG9FbMyVroCVZpuDKG5EOjBCQVbhAtcXhlqWfaoJbc7
+DWTV,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=bcEguJii3cAzzXuh2bmb0nkEtJCbibQz1LOShbDjtoU%3DxaFzkeTs1IxijdTzx
+CNEX,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=TPHe4BaSuieOljb8qXvi6D3i8MKfbir6rWI0sica7PXKrR6vdZeToTrZYZMu9
+BBC News,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=0CKmICahdxIzLzMlLx759xpyXi-3JuPsa-NvLltF76rxMHt7856yghLLO2p8g
+台視综合,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=7s%3D%3DQofPksl4UrzdP3kwAtikF0f3h4iF-sT1R3E7VtPrG5yQVu19QoGBQ6EDW
+台视财经台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=N-Uo58EHm9XNVJUVl8EW6-0Yo-kk9HUG0J0oiKkg57EepN3pUAXh44nrn%3DEoo
+中天综合,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=1xB5RjvBPw-uLmB-Ak%3D29kOyJy0-%3DwCq%3Dlh6JmE9Pki5%3D1hKJoEKPgSK9nupVlusa
+中天娱乐,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=36gb-JBrf2yke4bSRyNEn4S1ewP757Q-MJxrkqvcj3e6D3gVS6F6ghSP89weK8-qu
+中天亚洲,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=YbsbzntewVyRAW3eBogX6qxmxJiiBbPj0dd1HhCOwWEqvsD0ugkmDG1v1dcTtbqQN
+中視經典,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=jlLM4n4SRmIZJUYb2Uef4lro-oIaQmo5PU4%3D7UryHxOQr4Lr8pr2MRrApVreFmoHE
+壹綜合台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=WfaV9YRdpZJm9XKLvSdf7ggmEj9T-FpW7hqeoahW8fsWwoOsxVko-QteqZeM3a2NK
+壹電影台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=8Jw1i8GzT6T3q1QNV%3DlqfryBOGGIj3VKAHE2S-2LYuDpVOjSU%3DJ8W2DUVsA0gBfhs
+緯來體育台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=MXjT4L1ElJoMzYmDV-vV2eDfmbl3YJnSp9xE0Q1zh%3DANWbGomBIZlGrViPWGj-8w8
+緯來精采HD,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=KLj8k3fEkLCRmQ-EhLTQg82vw3FKiWVUNUej0Xz0k3izlaFiTSBZfIjkh-Wvt3P8-
+欧洲体育(HD),http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=CFpAeMuFXQMPsRaHvw6WYPLAyGKEc%3DdEpH84tGZQcBudKU%3DYbHKYttdeXGL4sFE24
+FOX 3HD,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=QOfS9%3DEnlWsZTOcSCTOK4fVl5hFCpPvTp-HLoXZgrN5evjOXlVYm6RYmqRcK5-xFB
+ELEVEN 1,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=DzqweRb4pEGGMzvSKxaHZ-KMfFuxbDJqM1S9fy6OjxKDiWuJbFJCbwieMzK6kyHm7
+ELEVEN 2,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=GD9EqFVSZHQO1WKTMD7XpPu-gXUMbBMMvGdPwLy-pHLGec%3DcfMUcyAgNaHS9oIt9-
+TRACE Sports,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=oaikZZfrH3z9D0yqUs3cOr0nZ6ywSaSpDY%3Dz%3DrGlCpCiF9nxAuk8UqyBDdykSaceN
+八大戏剧,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=hgVa6emq5gldLqZhIsFu-e2S7sIZMq5lKs1tSrZlQhFV%3DvJ28joyNbp28jlZKgTQX
+八大第1台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=w%3DGbEh8vXvZkEy93UsXkLza7MgW6dAm3EgMAKwmd2zqnJwa4K29AHd5LL22XGfmmm
+迪士尼卡通,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=%2BLHGu9I%3DZ9pJdu8MWOPqGPGFnRIysA0ba-1-jKJ5cw87XT%3DKGFJOqCLHaCE6rxC1y
+TLC旅遊生活频道,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=xyLrXr2NE9I3bgWBH-4EKh5u1zY7brW1MybwHgWFDzYnKwpO30rEYcJO30orWfToS
+動物星球,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=bbXQxLFW0ngn1YOihnTUjbnUwJSS5cTbzMOB3aDkhbkTxaFzkeTs1IxijdTTvcB-K
+國興衛視,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=kUvirUvA8T7-Algl4p%3DfnWtc-1YnT05Xsn6aAeKsNTZgAkfCpWy56Pu%3DrowJ5p8FF
+TVBS(HD),http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=URtsxURcplMR4TeMAZO6CFYZcV-VwW8ieNXPtGbj8DzRbhAtcXhlqWfaoJb86Y41M
+TVBS精彩台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=ghDODd9lOcMmmkkhGSUYIqro8dn00jTKDQNZOd5t2kHl2jXp7grt6aq81kjKDSXQU
+TVBS欢乐台(HD),http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=BSd5rJkEHSd1vJk7SHaWc9k%3DXGNFu9XsHHaFp%3D0LSHd9eO3MGJNOs6XMGJK1q%3DBmh
+華藝影劇台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=WTqd7iug9mcmDidPufdUqfzWHktn9R5eAV6upaBW4TsqwoOsxVko-QteqZeM6ZWNK
+高点综合台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=45R-P8Q9h29sf6QxWCv3f2zycqCRN5xqSIDtlqNtR5Q1EHiURsD7elVSB8xuP7Ncs
+客家電視台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=4GB%3DC8jtdrt8iGzGDCC0TpDyhpFyA5xzA7gmPqQ1V7gxEHiURsD7elVSB8xuP8tcs
+原住民族電台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=eOUYDfZe1t3tJqnZ3ckqFRrpyiHayMSu8e2tGe7aleTn3zYo5jnyFK3lzgpW2ikQU
+民視台湾台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=kUcx3fvc7ULi-lDSrpiW7gAbLrbXT1JLrn6-BSKAUe8MAkfCpWy56Pu%3DrowJ6pMFF
+民視第一台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=UddsqVRMrZ%3DCnGrMBXOHuRIUygrhwVpttBaLtRbf8Dg5bhAtcXhlqWfaoJb87ZI1M
+公視2台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=anoGAJuczMSqzjAT7ZSo3LARujwczgRaxHuRvolLuJxfzcV3iZTY%3DWl02NdBvXN-O
+公视3台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=AJ13hyv2TuWRIF0AbvjHcKzvJ9ZJmI4zny%3DJouJFHH04IA2LdAG%3DX5MeV%3D1nkyJwv
+Z頻道,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=IGdCQJszfH8Ku2O-cSBUM4QDf7u5j6tRnJsEST%3DGr1hBgW0gN6DXt3hOP8N9iHZqs
+MTV,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=CGmDrARBZFM%3DuR3bwy69lF-ItR6PwMKEkHM8nRGLuBOFKU%3DYbHKYttdeXGL4vGk24
+DMAX(HD),http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=wAGXMh5Lg8ZgD0q%3Dbs3fX19zIsGqfz5XKf5%3Ddvm51%3DqvJwa4K29AHd5LL22XIgGmm
+国家地理HD,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=A8F7hzM5k6WxMHHAT8Gyv-jyXJp9m918Uyf1j7GMWG0EIA2LdAG%3DX5MeV%3D1nkzpwv
+国家地理悠人,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=z4clatA6Ms4Iaheli2%3Dl258qJig-Rg4MciLld2swL5cZOywP9jrJdeO6O5sYJ6pUn
+国家地理野生,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=ExgPLzOZc3NEJI5HHJD6MQBptCQ2fV4FrH7GoC4H1z8bhCAbO0RaZydgJJJuZJNko
+BBC earth,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=0DKX8DnuRkIueA5ge8458-JrJkbqVt%3D9KzNA8mw15EupMHt7856yghLLO2pcfwVrX
+ANIMAX HD,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=21LNb19sLEgZR3b4kC%3DzTkv--FRt65s0MpbJTmCEOlwBC0i9Q8uJfx-SNrqgN4NXr
+BoomErang卡通,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=Xi%3DUCbsxvIdBubaVuYDnvZ9QBFcl%3DVfwEbMwBJAACa6hipWztbgZ-BvyrYPQFa5LJ
+CN卡通台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=htldNqWa7sli8fma-hVlLfZlOtl1Pqpe9hlZSfWS9hod%3DvJ28joyNbp28jlZOfDQX
+NICK 卡通,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=-DVmDAyFSF2poBsKXsIEEKdAWPLGj51-l5HDntaOc%3D0jYMmWb%3D3Up%3DYGDBCkmEAg2
+FX HD,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=PL346NGQZSFOlO3jnMmJjA3Wo-XaqLEBnOW8adVypOnfXRJmXCKi27anYOE44Ojyz
+AXN HD,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=6qkKQGC0m4AjXsxtW8TtU%3DCSj8jl-rlsPFT4U1xKUHyEW9jDWuEJk5GCCByyh-wfc
+FOX HD,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=%3DyI5F70VWu6snDH1YMXHjMTCa92%3DFz4VHIEInvHFSP6xLRnUVDG%3DYtWbI044W9Bzv
+FOX SPORTS(HD),http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=hiYdMeZlLg12-e2q7sle7rW1LhFa7q2dOhlxQrGlLs1h%3DvJ28joyNbp28jlZPeTQX
+FOX SPORTS 2(HD),http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=J9z-MZNOr7Q9dZw-uIAFgNwCsIQyNNg7b9w2RNtuzIwtReAPe-DKfKgPe-AxhNap5
+FOX family MOVIES,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=NJUg8Hka49UhT-0lq7Urn9ncl-3U28XW18EkmJkk09UOpN3pUAXh44nrn%3DEIm-BDD
 
 港台体育,#genre#
 FOXSPORT2,p8p://0198.02686.cc:16871/5d1a69a30008cd8811bd9c1ad6dfa2ad.ts
@@ -176,12 +236,6 @@ BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 
-精彩4K,#genre#
-BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-
 NewTV,#genre#
 NewTV古装,http://39.135.36.150:18890/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6859053933687922163&owchid=ystenlive&owsid=1106497909461643183&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7rI6cyOBdMQcbb7pGYvKkkE4PU3Zf45kDZim939dEFvAtUmU8crfqEUv5zpewkRlr9zZahSqXGjBKN9OvmeMwv
 NewTV动作,http://39.135.36.146:18890/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=1106497909461651262&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6gc5lrV9LORe1gi%2brvWfZqjqWg5r9sHf%2bhUiRSDpBuWg5lRQBeU9YctiSzPH6gfVkWNbz7C4olsbRCQkf1hNrZ
@@ -202,4 +256,3 @@ NewTV健康有约,http://39.135.36.155:18890/000000001000/7820874641606664941/1.
 NewTV精品体育,http://39.135.36.157:18890/000000001000/6460382139625130259/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6460382139625130259&owchid=ystenlive&owsid=1106497909461751360&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7bXyHXx9pcAUwTaLb5AbAmkHYZnpwVd9P8mvmphlj1JalYdRW8FBsCqY%2f8wxvQntk%2bssuunsLwIBwjlBeIJxeC
 NewTV潮妈辣婆,http://39.135.36.147:18890/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=1106497909461757416&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7lpjlDkCigeV92%2fGgzDbl17YJnmK%2bNapvzR3hZbQitGUDQ%2f2RfKI5ienTpN%2bdmcS6qzJsR4R%2fYKs50I6pDfn83
 NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000000515&owchid=ystenlive&owsid=1106497909461764488&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRNwKLc81VtMnWmF2ZM43fEHzlD22rx2n%2flxPrsDq9A4qonSPaCT%2bEq8mzJT5jo5U4
-囧妈,http://tp-fad-index.huanxi.com/3a0c48550c67dfb27611aee9a98af612/1579886361/vod/7cfe90e6-752b-4cba-87f0-10e2b188b007.m3u8?bitrate=4944
