@@ -16,6 +16,7 @@ CCTV13超清,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u
 CCTV14超清,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 CCTV15超清,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 CCTV17超清,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+都市频道,https://sztv-live.cutv.com/ZwxzUXr/500/uuZ1x0U.m3u8?sign=183fcabbb792e978bd35085deb0548ba&t=5e5dcc5d
 广东珠江,https://mrw.so/5dnqXf?dsjtv&zjpd.m3u8#http://nclive.grtn.cn/zjpd/sd/live.m3u8
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
 湖南卫视,http://140.249.30.171/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=072&Provider_id=&Pcontent_id=index.m3u8
