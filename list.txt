@@ -18,9 +18,8 @@ CCTV-13新聞,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/
 CCTV-14少兒,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 CCTV-15音樂,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 CCTV-17農村農業,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-广东珠江,https://mrw.so/5dnqXf?dsjtv&zjpd.m3u8#http://nclive.grtn.cn/zjpd/sd/live.m3u8
+广东珠江,http://nclive.grtn.cn/zjpd/sd/live.m3u8
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
-湖南卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=072&Provider_id=&Pcontent_id=index.m3u8
 东方卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=044&Provider_id=&Pcontent_id=index.m3u8
 黑龙江卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=045&Provider_id=&Pcontent_id=index.m3u8
 广东卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=004&Provider_id=&Pcontent_id=index.m3u8
@@ -45,9 +44,9 @@ CCTV-17農村農業,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.c
 港台,#genre#
 八大第一,vjms://58.215.133.161:8500/live/cid=441#vjms://58.215.133.185:8500:3502/live/cid=441#vjms://58.215.133.184:8500:3502/live/cid=441#vjms://58.215.133.185:8500:3502/live/cid=441
 无线新闻,http://pull.scphsd.com/live/df51c376793660e72f1ef485a40a9d66/playlist.m3u8#P2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts#http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=QafK%3D%3D0q0h8MoOpTsTrOySFinUYJ9P8Ts%3DUPlXJNVNMavjOXlVYm6RYmqRcqH#p2p://170.178.164.242:6220/5b448a930006507800029caab508f093.ts#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#P2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts#P2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
-翡翠台,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts#P2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts#http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=6qxSYHSIptzinr0AhIDiB%3DCuhJTgW2Vjg4TMVqh%3DD7fUW9jDWuEJk5GCCByyr#http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv#p2p://170.178.164.242:6220/5b448a91000047c10002934f41cb6082.ts#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#P2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
+翡翠台,http://pull.scphsd.com/live/66afc32511ae35245ff2d28e7f404642/playlist.m3u8#tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts#P2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts#http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv#p2p://170.178.164.242:6220/5b448a91000047c10002934f41cb6082.ts#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#P2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
 J2台,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts#P2p://lino.homeunix.com:6007/59fd25e80008aaec02a88fc1476f2edf.ts#P2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts
-无线财经资讯台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=lpch8kTltzzauzMp4vD06ozh60%3DZ9wAcDnQZ9oPV8vAAw3juuqvlLgDBupwN6#P2p://lino.homeunix.com:6007/59fd314f000be93d02d51ae40a3a24e8.ts
+无线财经资讯台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1584605938~exp=1584692338~acl=/newslive/smil:mobile_finance.smil/*~hmac=ba26747fc49282735369050dac01b9578c7167a0c7ad59c5e099d76a5860e839#P2p://lino.homeunix.com:6007/59fd314f000be93d02d51ae40a3a24e8.ts
 无线财经资讯台J5台,P2p://lino.homeunix.com:6007/5ad32aed000d8fa649eaacf716d70340.ts
 明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#P2p://lino.homeunix.com:6007/59fd0d0a0009323a02476cb020fe16f9.ts#P2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts
 星河频道,P2p://lino.homeunix.com:6007/59fd3f91000c54e4030cccd33c6f6c3c.ts
