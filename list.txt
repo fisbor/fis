@@ -18,6 +18,7 @@ CCTV-13新聞,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/
 CCTV-14少兒,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 CCTV-15音樂,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 CCTV-17農村農業,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+都市频道，https://sztv-live.cutv.com/ZwxzUXr/500/fujw4zk.m3u8?sign=54297f49cad1b29066f60a0c97368650&t=5e73c240
 广东珠江,http://nclive.grtn.cn/zjpd/sd/live.m3u8
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
 东方卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=044&Provider_id=&Pcontent_id=index.m3u8
